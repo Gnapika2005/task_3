@@ -17,13 +17,13 @@ Understand basic networking concepts and how systems communicate over a network 
 ## Screenshots
 
 ### IP Address Check
-![ip a](screenshots\ip.png)
+![ip a](screenshots/ip.png)
 
 ### Ping Test
-![ping](screenshots\ping.png")
+![ping](screenshots/ping.png)
 
 ### DNS Resolution
-![nslookup](screenshots\trace.png)
+![nslookup](screenshots/trace.png)
 
 ## Conclusion
 This task provided hands-on understanding of networking fundamentals required for DevOps roles.
